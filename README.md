@@ -9,8 +9,7 @@ Welcome to exercise number three! The exercise this week will be slightly differ
 3. Click on the file `what.html`
 4. You should see a little pencil icon, when you hover over it it should say "Edit this file," __click the pencil icon__.
 5. Edit the HTML:  
-	* Replace the placeholder text “Lorem ipsum...” with your own essay, responding to the prompt: “What’s happening? What’s on your mind?”
-	* When writing your response, be aware of the time frame of your response. Is it one day? One month? One year?
+	* Replace the placeholder text “Lorem ipsum...” with your own essay, responding to the prompt: “i never thought i’d [____], but then...”
 	* Replace the title inside the `<h1>...</h1>` with an appropriate title.
 	* Make sure the total amount of text is *less than 2000* characters (you can check using an [online tool](http://www.charactercountonline.com/)).
 6. Once you’re happy with your text, scroll down the page, enter a short commit description, and then click the __Commit changes__ button.
