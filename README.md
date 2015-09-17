@@ -11,6 +11,7 @@ Welcome to exercise number three! The exercise this week will be slightly differ
 5. Edit the HTML:  
 	* Replace the placeholder text “Lorem ipsum...” with your own essay, responding to the prompt: “i never thought i’d [____], but then...”
 	* Replace the title inside the `<h1>...</h1>` with an appropriate title.
+	* Also replace the `<title>` text at the top of the HTML file.
 	* Make sure the total amount of text is *less than 2000* characters (you can check using an [online tool](http://www.charactercountonline.com/)).
 6. Once you’re happy with your text, scroll down the page, enter a short commit description, and then click the __Commit changes__ button.
 7. Go back to the main repository page and click the __Download ZIP__ button to get a local copy of your files.
